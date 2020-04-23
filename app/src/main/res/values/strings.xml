@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebviewPdfReader</string>
+    <string name="read_pdf">read pdf</string>
+</resources>
